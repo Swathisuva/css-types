@@ -1,7 +1,7 @@
 <html>
 <head>
 	<h1>css types</h1>
-    <link rel="stylesheet" type="css/text" href="./css.html">
+    <link rel="stylesheet" type="css/text" href="1.css">
 	<style>
 		h1{color:blue;font-size: 50px}
 		p{
